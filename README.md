@@ -1,4 +1,4 @@
-# Diving into Column Stores and the Separation of Compute and Storage
+# Columnar Data and the Separation of Compute and Storage
 
 Code for November, 2018 Research Bytes presentation.
 

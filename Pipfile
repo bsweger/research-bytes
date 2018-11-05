@@ -8,6 +8,8 @@ pyarrow = "==0.10.0"
 pandas = "==0.23.4"
 jupyter = "==1.0.0"
 awscli = "*"
+requests = "*"
+pyathenajdbc = "*"
 
 [dev-packages]
 
